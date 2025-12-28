@@ -1,0 +1,15 @@
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button{
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  font-size: 25px;
+  border-radius: 5px;
+  border: 2px solid rgb(123, 153, 150);
+}
